@@ -1,2 +1,3 @@
 # hello-world
-Where everything began
+Where everything began.
+
